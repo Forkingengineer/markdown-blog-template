@@ -1,7 +1,7 @@
-# Documentation for Markdown-Blog-Template
+# UPTOPIA
 
-Build your own online knowledge base with markdown!
+Building communities with technology
 
-GitHub: [https:\/\/github.com/BHznJNs/markdown-blog-template](https://github.com/BHznJNs/markdown-blog-template)
+
 
 - - -
