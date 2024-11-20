@@ -1,4 +1,5 @@
 export default {
+    
     /**
      * homepage: String
      * the URL that this site deployed, is used to generate the rss.xml file
