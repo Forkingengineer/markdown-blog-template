@@ -4,7 +4,7 @@
 
 [\[简体中文\]](./README_CN.md) [\[Documentation\]](https://bhznjns.github.io/markdown-blog-template/)
 
-Build your own online knowledge base with markdown!
+
 
 - - -
 
